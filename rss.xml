@@ -4,8 +4,15 @@
         <description><![CDATA[Volanthius - ON THE GRID]]></description>
         <link>https://thegrid.ai/volanthius/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Dec 2015 11:55:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Dec 2015 11:55:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/volanthius/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Photographs]]></title>
+            <description><![CDATA[<article><h1>Photographs</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/25b15b03-cce3-45a0-9a3e-ce140ded2759.png"></article>]]></description>
+            <link>https://thegrid.ai/volanthius/photographs/index.html</link>
+            <guid isPermaLink="false">da946ffe-156d-41b6-907d-03e5c88886bb</guid>
+            <pubDate>Fri, 04 Dec 2015 11:55:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Lions]]></title>
             <description><![CDATA[<article><h1>Lions</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6ec91780-5bf7-4272-8c8f-906a68e80f68.png"></article>]]></description>
