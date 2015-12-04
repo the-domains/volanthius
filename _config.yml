@@ -1,14 +1,29 @@
+name: Volanthius
+favicon: null
 layout_spectrum: 0.9893617
+typography_spectrum: 0.6151018
+title: Volanthius - ON THE GRID
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5297872
-  lightness: 0.887234
-  brandStrength: 0.01914894
-  rhythmicContrast: 0.4425532
   brandColors:
     - '#ADD7F6'
     - '#87BFFF'
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-typography_spectrum: 0.6151018
-name: Volanthius
+  brandStrength: 0.01914894
+  lightness: 0.887234
+  saturation: 0.5297872
+  rhythmicContrast: 0.4425532
+purpose: []
